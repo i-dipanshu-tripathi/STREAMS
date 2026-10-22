@@ -1,0 +1,13 @@
+Q2. Calculate the sum, average, minimum, maximum, and count of numbers using a single Stream pipeline.
+
+Input:
+
+[10, 20, 30, 40, 50]
+
+Output:
+
+Sum: 150
+Average: 30.0
+Min: 10
+Max: 50
+Count: 5
