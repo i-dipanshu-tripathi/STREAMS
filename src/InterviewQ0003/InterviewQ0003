@@ -1,0 +1,10 @@
+Q3. Find the second-highest and third-highest distinct numbers.
+
+Input:
+
+[10, 40, 20, 50, 30, 50, 40]
+
+Output:
+
+Second highest: 40
+Third highest: 30
